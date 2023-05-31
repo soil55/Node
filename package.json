@@ -1,0 +1,19 @@
+{
+  "name": "docker_learn",
+  "version": "1.0.0",
+  "description": "learn docker with nodejs",
+  "start": "node index.js",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "vinod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
